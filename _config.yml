@@ -1,9 +1,9 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: 小迪伦的编程之旅
+SEOTitle: 小迪伦的博客 | Dylan's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: 1185465225@qq.com
+description: "永不停下追寻的脚步"
 keyword: ""
 url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     小迪
+zhihu_username:     小迪
+github_username:    Dylan-Xiao
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  萧闻轩
 
 
 
